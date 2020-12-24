@@ -64,4 +64,25 @@ We are referring to robot poses as Px, Py and landmark positions as Lx, Ly, and 
   <img src="images/world.PNG" width=50% height=50%>
 </p>
 
+This is a map our robot moves in and landmarks it estimates.
+Given ground true robot poses (coordinates after each move) and ground true coordinates of the landmarks on a map
+we can compare how our robot estimates its own poses and landmark coordinates using SLAM.
+
+Final estimated pose: (4.415016684320619, 72.87959118795443)
+True final pose: (3.35286, 71.62254)
+
+Estimated landmarks:
+(8.019, 35.446)
+(19.882, 41.192)
+(45.504, 0.673)
+(17.149, 90.208)
+(87.297, 32.854)
+
+True landmarks:
+(9, 36)
+(21, 41)
+(47, 1)
+(18, 91)
+(88, 33)
+
 LICENSE: This project is licensed under the terms of the MIT license.
