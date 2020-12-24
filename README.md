@@ -53,4 +53,9 @@ To implement Graph SLAM, a matrix and a vector (omega and xi, respectively) are 
 Every time we make an observation, for example as we move between two poses by some distance dx and can relate those two positions, you can represent this as a numerical relationship in these matrices.
 
 We are referring to robot poses as Px, Py and landmark positions as Lx, Ly, and one way to approach this challenge is to add both x and y locations in the constraint matrices.
+
+<p align="center">
+  <img src="images/constraints2D.png" width=50% height=50%>
+</p>
+
 LICENSE: This project is licensed under the terms of the MIT license.
