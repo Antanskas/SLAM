@@ -58,4 +58,10 @@ We are referring to robot poses as Px, Py and landmark positions as Lx, Ly, and 
   <img src="images/constraints2D.png" width=50% height=50%>
 </p>
 
+## Grid world
+
+<p align="center">
+  <img src="images/world.PNG" width=50% height=50%>
+</p>
+
 LICENSE: This project is licensed under the terms of the MIT license.
