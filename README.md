@@ -68,21 +68,21 @@ This is a map our robot moves in and landmarks it estimates.
 Given ground true robot poses (coordinates after each move) and ground true coordinates of the landmarks on a map
 we can compare how our robot estimates its own poses and landmark coordinates using SLAM.
 
-Final estimated pose: (4.415016684320619, 72.87959118795443)
-True final pose: (3.35286, 71.62254)
+Final estimated pose: (4.415016684320619, 72.87959118795443)<br>
+True final pose: (3.35286, 71.62254)<br>
 
-Estimated landmarks:
-(8.019, 35.446)
-(19.882, 41.192)
-(45.504, 0.673)
-(17.149, 90.208)
-(87.297, 32.854)
+Estimated landmarks:<br>
+(8.019, 35.446)<br>
+(19.882, 41.192)<br>
+(45.504, 0.673)<br>
+(17.149, 90.208)<br>
+(87.297, 32.854)<br>
 
-True landmarks:
-(9, 36)
-(21, 41)
-(47, 1)
-(18, 91)
-(88, 33)
+True landmarks:<br>
+(9, 36)<br>
+(21, 41)<br>
+(47, 1)<br>
+(18, 91)<br>
+(88, 33)<br>
 
 LICENSE: This project is licensed under the terms of the MIT license.
