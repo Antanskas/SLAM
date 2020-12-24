@@ -85,4 +85,14 @@ True landmarks:<br>
 (18, 91)<br>
 (88, 33)<br>
 
+## Errors over N - steps taken
+From the test took in Notebook 3 we can also see that errors between true and estimated poses as well as landmarsk positions do not really change:
+
+<p align="center">
+  <img src="images/pose_over_n.PNG" width=50% height=50%>
+</p>
+<p align="center">
+  <img src="images/landmark_over_n.PNG" width=50% height=50%>
+</p>
+
 LICENSE: This project is licensed under the terms of the MIT license.
